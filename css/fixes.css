@@ -1,0 +1,82 @@
+﻿.row-height-xs
+{
+    height:50px;
+}
+.row-height-sm
+{
+    height:100px;
+}
+.row-height-md
+{
+    height:150px;
+}
+.row-height-lg
+{
+    height:200px;
+}
+.img-width-xxs
+{
+    width:30px;
+}
+.img-width-xs
+{
+    width:50px;
+}
+.img-width-sm
+{
+    width:100px;
+}
+.img-width-md
+{
+    width:150px;
+}
+.img-width-lg
+{
+    width:200px;
+}
+.logo_anuies
+{
+    margin-top:15px;
+    margin-bottom:20px;
+}
+.titulo_anuies
+{
+    line-height:35px;
+    margin-top:30px;
+    margin-left:-60px;
+}
+.subtitulo_anuies
+{
+    margin-left:-60px;
+    margin-top:-10px;
+}
+.logo_ipv6test
+{
+    float:right;
+    margin-top:30px;
+    margin-bottom:10px;
+}
+.barra_busqueda
+{
+    float:right;
+    margin-bottom:10px;
+}
+.carousel_anuies
+{
+    margin-top:-20px;
+}
+.img_carousel_width
+{
+    width:100%;
+}
+.footer_text_sm
+{
+    font-size:10px;
+    color:#999999;
+}
+.logos_redes
+{
+    float:right;
+    margin-bottom:10px;
+    margin-left:10px;
+}
